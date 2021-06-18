@@ -9,3 +9,7 @@ gui
 index
 
 some changes
+and one more change
+and one more change
+
+git reset
