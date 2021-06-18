@@ -13,6 +13,3 @@ and one more change
 and one more change
 
 git reset
-
-git revert
-git revert + commit
